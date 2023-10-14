@@ -1,4 +1,4 @@
-# 08 Data-Drive Decision Making
+# 08 Data-Driven Decision Making
 Welcome to my Data Science journey repository! Here's an overview of the content:
 
 - [01 ](https://github.com/lokmanTech)
